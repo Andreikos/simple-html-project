@@ -1,2 +1,3 @@
-# simple-html-project
-My simple HTML Project
+# Simple HTML Project
+
+This is my first simple HTML project tracked by git.
